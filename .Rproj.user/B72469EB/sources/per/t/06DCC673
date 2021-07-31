@@ -1,0 +1,28 @@
+{
+    "id": "06DCC673",
+    "path": "~/Documents/Modules/Third Year (20:21)/Spring 2021/Fundamentals of Information Visualisation/CW_WeatherForecasting/WeatherForecasting.R",
+    "project_path": "WeatherForecasting.R",
+    "type": "r_source",
+    "hash": "1569949969",
+    "contents": "",
+    "dirty": false,
+    "created": 1618144897667.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "328,18",
+        "scrollLine": "296",
+        "ignored_words": "forecasted\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618957838,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618957838742,
+    "read_only": false,
+    "read_only_alternatives": []
+}
